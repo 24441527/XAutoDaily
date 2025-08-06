@@ -1,6 +1,6 @@
 {
-    "versionName": "3.0.31",
-    "versionCode": 25072715,
+    "versionName": "3.0.31.1",
+    "versionCode": 25072716,
     "updateTime": "2025-07-27 15:28:28",
-    "updateLog": "【问题修复】\n- 修复 QQ 9.1.90+ 模块入口创建失败\n- 修复 QQ 9.1.95+ 好友列表获取"
+    "updateLog": "【test】\n- 修复 QQ 9.1.90+ 模块入口创建失败\n- 修复 QQ 9.1.95+ 好友列表获取"
 }
